@@ -1,0 +1,13 @@
+{
+    "pack": {
+        "description": [
+            {"text":"         Banner","color":"#c440bf"},
+            {"text":" Text       ","color":"#f9bac1"},
+			{"text":"v1.3.0 ","color":"dark_gray"},
+			{"text":"         by ","color":"gray"},
+			{"text":"Snuzzle","color":"#c6ebc8","bold":true}
+        ],
+        "pack_format": 34,
+        "supported_format": [28,99]
+    }
+}
