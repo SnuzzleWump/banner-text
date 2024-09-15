@@ -3,7 +3,11 @@
         "description": [
             {"text":"         Banner","color":"#c440bf"},
             {"text":" Text       ","color":"#f9bac1"},
+<<<<<<< Updated upstream
 			{"text":"v1.3.0 ","color":"dark_gray"},
+=======
+			{"text":"v1.3.1 ","color":"dark_gray"},
+>>>>>>> Stashed changes
 			{"text":"         by ","color":"gray"},
 			{"text":"Snuzzle","color":"#c6ebc8","bold":true}
         ],
