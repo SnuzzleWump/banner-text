@@ -1,13 +1,17 @@
 {
     "pack": {
         "description": [
-            {"text":"         Banner","color":"#c440bf"},
-            {"text":" Text       ","color":"#f9bac1"},
-			{"text":"v1.3.1 ","color":"dark_gray"},
-			{"text":"         by ","color":"gray"},
-			{"text":"Snuzzle","color":"#c6ebc8","bold":true}
+            "",
+            {"text":"Banner ","color":"#c440bf","bold":true},
+            {"text":"Text           ","color":"#f9bac1","bold":true},
+			{"text":"v1.3.3 ","color":"dark_gray"},
+			{"text":"by ","color":"gray"},
+			{"text":"Snuzzle","color":"#c6ebc8"}
         ],
-        "pack_format": 41,
-        "supported_format": [34,99]
+        "pack_format": 71,
+		"supported_formats": {
+			"max_inclusive": 74,
+			"min_inclusive": 34
+		  }
     }
 }
