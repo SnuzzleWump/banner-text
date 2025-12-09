@@ -23,7 +23,8 @@ A version with Cyrillic characters has been made by [SMSka](https://modrinth.com
 If you are using this on a server, paste the resource pack download link after ``resource-pack=`` in the ``server.properties`` file.
 
 ### Credits
-thanks to goldstargloww for creating [uscur galactic](https://modrinth.com/resourcepack/ucsur-galactic)
+- Thanks to [goldstargloww](https://github.com/goldstargloww) for creating [uscur galactic](https://modrinth.com/resourcepack/ucsur-galactic)
+- Thanks to [StellarWind22](https://github.com/StellarWind22) for adding the respective shield patterns to this pack.
 
 ### Requests
 Please request features on the [github issues page](https://github.com/SnuzzleWump/banner-text/issues) or [planet minecraft](https://www.planetminecraft.com/data-pack/banner-text/).
