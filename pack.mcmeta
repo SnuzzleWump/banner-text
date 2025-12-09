@@ -4,14 +4,16 @@
             "",
             {"text":"Banner ","color":"#c440bf","bold":true},
             {"text":"Text           ","color":"#f9bac1","bold":true},
-			{"text":"v1.3.4 ","color":"dark_gray"},
+			{"text":"v1.4.1 ","color":"dark_gray"},
 			{"text":"by ","color":"gray"},
 			{"text":"Snuzzle","color":"#c6ebc8"}
         ],
-        "pack_format": 81,
+        "pack_format": 69,
 		"supported_formats": {
 			"max_inclusive": 99,
-			"min_inclusive": 50
-		  }
+			"min_inclusive": 29
+		  },
+        "min_format": 29,
+        "max_format": 99
     }
 }
